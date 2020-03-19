@@ -3,6 +3,14 @@ body {
   margin: 0;
 }
 
+.App {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 99%;
+  height: 99%;
+}
+
 button, input {
   display: block;
 }
